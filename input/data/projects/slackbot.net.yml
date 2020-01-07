@@ -1,0 +1,9 @@
+SourceCode: https://github.com/slackbot-net/Slackbot.Net
+NuGet:
+  - slackbot.net
+Language: C#
+Image: https://raw.githubusercontent.com/slackbot-net/Slackbot.Net/b4c92c7be4411c79b4fe91db569fbef84304b895/source/src/Slackbot.Net/images/slack.png
+Title: .NET Slackbot framework for .NET Core hosts
+Description: Makes it easy to create Slackbots in .NET Core
+Tags:
+  - Slack
